@@ -4,7 +4,7 @@
 
 <head>
 	<meta charset=“utf-8”>
-	<title>Commodore 64</title>
+	<!--<title>Commodore 64</title> -->
 </head>
 
 <body>
