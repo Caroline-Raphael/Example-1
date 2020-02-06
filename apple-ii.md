@@ -4,7 +4,7 @@
 
 <head>
 	<meta charset=“utf-8”>
-	<title>Apple Macintosh</title>
+	<!--<title>Apple Macintosh</title> --->
 </head>
 
 <body>
