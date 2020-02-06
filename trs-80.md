@@ -4,7 +4,7 @@
 
 <head>
 	<meta charset=“utf-8”>
-	<title>TRS 80</title>
+	<!-----<title>TRS 80</title> ----> 
 </head>
 
 <body>
