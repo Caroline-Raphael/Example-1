@@ -13,7 +13,7 @@
 
 <h5>[Navigation]</h5>
 <h5>Apple II</h5>
-<h5><a href=“commodore-64.html”>Home</a></h5>
+<h5><a href=“commodore-64.md”>Home</a></h5>
 <h5><em>Commodore 64</em></h5>
 <h5>TRS 80</h5>
 
