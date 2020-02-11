@@ -12,9 +12,9 @@
 <h1>TRS 80</h1>
 
 <h5>[Navigation]</h5>
+<h5><a href="index.md">Home</a></h5>
 <h5>Apple II</h5>
 <h5>Commodore 64</h5>
-<h5><a href="index.md">Home</a></h5>
 <h5><em>TRS 80</em></h5>
 
 <img src="TRS-80.jpg" alt="TRS 80"> 
